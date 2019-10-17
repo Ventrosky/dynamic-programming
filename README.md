@@ -1,2 +1,2 @@
 # dynamic-programming
-implementation of dynamic programming algorithms
+Implementation of dynamic programming algorithms from the Udemy course "Master the art of Dynamic Programming" 
